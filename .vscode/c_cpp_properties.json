@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "sgdk",
+            "includePath": [
+                "${workspaceFolder}/../../../inc",
+                "${workspaceFolder}/../../../res",
+                "${workspaceFolder}/inc",
+                "${workspaceFolder}/res",
+                "c:\\sgdk\\inc"
+
+            ]
+        }
+    ],
+    "version": 4
+}
