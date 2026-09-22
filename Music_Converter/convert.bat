@@ -1,0 +1,1 @@
+xgmtool.exe bg_music.vgm bg_music.xgm 
